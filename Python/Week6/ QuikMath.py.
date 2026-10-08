@@ -1,0 +1,27 @@
+def Add(num1, num2):
+    return num1 + num2
+
+sum = Add (7, 18)
+print (sum)
+
+def Multiply (num1, num2):
+    return num1 * num2
+
+product = Multiply (6, 1)
+print (product)
+
+def Divide(num1, num2):
+    return num1 / num2
+
+Quotient = Divide (9 , 2)
+print (Quotient)
+
+def Minus (num1, num2):
+    return num1 - num2
+
+dif = Minus (6, 1)
+print (dif)
+
+
+
+
