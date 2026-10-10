@@ -1,0 +1,7 @@
+prompt = input("Do you want to print the list? Y/N")
+geniuses =["Jalil" , "Noah" , "Elijah" , "Kevin" , "Josiah"]
+
+while (prompt == "Y"):
+ for genius in geniuses:
+    print(genius) 
+prompt = input("Do you want to print the list? Y/N")
